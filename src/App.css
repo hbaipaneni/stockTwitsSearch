@@ -1,0 +1,20 @@
+.App {
+  max-width: 400px;
+  margin: auto;
+  padding-top: 30px;
+}
+
+.userImgWrap {
+  padding: 0
+}
+
+.userImgWrap > img {
+  border-radius: 50%;
+}
+.readMore {
+  color: blue;
+  cursor: pointer;
+}
+.tweetBody {
+  font-size: 12px;
+}
